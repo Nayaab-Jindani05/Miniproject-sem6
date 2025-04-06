@@ -1,0 +1,17 @@
+*.pkl
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+venv/
+
+# Environment files
+.env
+*.env
+
+# Data files
+*.pkl
+*.csv
+*.json
